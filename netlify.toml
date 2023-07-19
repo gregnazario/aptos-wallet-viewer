@@ -1,0 +1,5 @@
+# Ensure that SPA works correctly
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
